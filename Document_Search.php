@@ -352,7 +352,6 @@ if(!isset($_SESSION['EmpID'])) {
 	<script src="assets/libs/simplebar/simplebar.min.js"></script>
 	<script src="assets/libs/node-waves/waves.min.js"></script>
 	<script src="assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
-	<script src="https://maps.google.com/maps/api/js?key=AIzaSyCtSAR45TFgZjOs4nBFFZnII-6mMHLfSYI"></script>
 	<script src="assets/js/app.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
